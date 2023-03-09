@@ -4,13 +4,15 @@
 
 
 - 🔭 I’m currently studying at hanghae99
-- 
+
 - 🌱 I’m currently learning java, spring boot
 <!-- - 👯 I’m looking to collaborate on ...-->
+
 - 🤔 I'm thinking about how to decorate my Git Profile
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
+
 - 🪹 Fun fact : The bean of spring boots is coffee beans 
 
 
