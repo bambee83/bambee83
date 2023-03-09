@@ -3,7 +3,7 @@
  ✨ _bambee83_ ✨  GitHub profile.
 
 
-- 🔭 I’m currently working on hanghae99
+- 🔭 I’m currently studying at hanghae99
 - 🌱 I’m currently learning java, spring boot
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
