@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-- 🪹 Fun fact : The bean of spring boots is coffee beans 
+- 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 
 
 [Bambee83's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
