@@ -15,8 +15,17 @@
 
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 
+###
+
 
 ![Bambee83's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=tokyonight)
+
+
+###
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bambee83&layout=compact&theme=tokyonight)
+
 
 <!--
 [![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
