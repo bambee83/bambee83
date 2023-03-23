@@ -1,4 +1,4 @@
-## ✨ _bambee83_ ✨  GitHub profile.
+##  ✨ _Bambee83_ ✨  gitHub profile.
 
 
 - 🔭 I’m currently studying at hanghae99
@@ -13,11 +13,11 @@
 
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 
-##
+## 🚀  Bambee83's gitHub stats & Top Langs
 ![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bambee83&layout=compact&theme=dark#gh-dark-mode-only)
 
-## 🔧 Technologies & Software Used
+## 🔧  Technologies & Software Used
 
 <img src="https://img.shields.io/badge/Java-FF81F9?style=flat-round"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-round&logo=SpringSecurity&logoColor=white"/>  <img src="https://img.shields.io/badge/JSONWebToken-000000?style=flat-round&logo=JsonWebToken&logoColor=white"/>   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> 
 
