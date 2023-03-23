@@ -1,4 +1,4 @@
-##  ✨ _Bambee83_ ✨  gitHub profile.
+##  ✨ _Bambee83_ ✨ 
 
 
 - 🔭 I’m currently studying at hanghae99
