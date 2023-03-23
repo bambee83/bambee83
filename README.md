@@ -14,7 +14,7 @@
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 
 ## 🚀  Bambee83's gitHub stats & Top Langs
-![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)]((https://github.com/bambee83/github-readme-stats#gh-dark-mode-only))
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bambee83&layout=compact&theme=dark#gh-dark-mode-only)
 
 ## 🔧  Technologies & Software Used
@@ -32,9 +32,6 @@
 
 [![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
  
-<!--
-[![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Bambee83's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=default#gh-light-mode-only)
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
--->
+
+<!-- ** -->
 
