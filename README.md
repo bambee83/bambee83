@@ -25,12 +25,12 @@
 
 <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-round&logo=AmazonS3&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-round&logo=AmazonEC2&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-round&logo=AmazonRDS&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-round&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-round&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-round&logo=filezilla&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F06A6A?style=flat-round&logo=slack&logoColor=white"/>
  
 
 ##
 
-[![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-000000.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
+[![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
  
 <!--
 [![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
