@@ -1,20 +1,13 @@
 ##  ✨ _Bambee83_ ✨ 
 
-
 - 🔭 I’m currently studying at hanghae99
-
 - 🌱 I’m currently learning java, spring boot
 <!-- - 👯 I’m looking to collaborate on ...-->
-
 - 🤔 I'm thinking about how to decorate my Git Profile
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
-
-## 🚀  Top Langs
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bambee83&layout=compact&theme=dark#gh-dark-mode-only)
 
 ## 🔧  Technologies & Software Used
 
@@ -30,9 +23,7 @@
 ## 🐳   Project
 
 [mini project - SeoulCulturePort](https://github.com/event-information)
-
 [clone coding - Instaclone](https://github.com/instaclone8)
-
 [final project - emotrak](https://github.com/EmoTrak)
 
  
@@ -40,6 +31,7 @@
 [![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
 ## 🚀  GitHub stats & Top Langs
 [![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)]((https://github.com/bambee83/github-readme-stats#gh-dark-mode-only))
+![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bambee83&layout=compact&theme=dark#gh-dark-mode-only)
 
  -->
 
