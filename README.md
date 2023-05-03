@@ -27,7 +27,6 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F06A6A?style=flat-round&logo=slack&logoColor=white"/>
 
-[![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
  
 ## 🐳   Project
 
@@ -38,5 +37,7 @@
 [final project - emotrak](https://github.com/EmoTrak)
 
  
-<!-- Markdown lang -->
+<!-- Markdown lang
+[![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
+ -->
 
