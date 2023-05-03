@@ -9,6 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ...-->
+
 ## 🔧  Technologies & Software Used
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-round&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white"/>   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-round&logo=SpringSecurity&logoColor=white"/>   <img src="https://img.shields.io/badge/JSON Web Token-000000?style=flat-round&logo=JSON Web Tokens&logoColor=white"/> 
@@ -30,5 +31,4 @@
  -->
 ## ⏲️ Work Stats
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
