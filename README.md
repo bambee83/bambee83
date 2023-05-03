@@ -2,13 +2,12 @@
 
 - 🔭 I’m currently studying at hanghae99
 - 🌱 I’m currently learning java, spring boot
-<!-- - 👯 I’m looking to collaborate on ...-->
 - 🤔 I'm thinking about how to decorate my Git Profile
+- 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- 🪹 Fun fact : The bean of spring boots is actually coffee beans 
-
+<!-- - 👯 I’m looking to collaborate on ...-->
 ## 🔧  Technologies & Software Used
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-round&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white"/>   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-round&logo=SpringSecurity&logoColor=white"/>   <img src="https://img.shields.io/badge/JSON Web Token-000000?style=flat-round&logo=JSON Web Tokens&logoColor=white"/> 
