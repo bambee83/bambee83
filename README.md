@@ -31,6 +31,11 @@
  
 ## 🐳  Project
 
+[mini project - SeoulCulturePort](https://github.com/event-information)
+
+[clone coding - Instaclone](https://github.com/instaclone8)
+
+[final project - emotrak](https://github.com/EmoTrak)
 
  
 <!-- Markdown lang -->
