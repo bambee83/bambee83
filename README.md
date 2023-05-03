@@ -13,8 +13,7 @@
 
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
 
-## 🚀  GitHub stats & Top Langs
-[![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)]((https://github.com/bambee83/github-readme-stats#gh-dark-mode-only))
+## 🚀  Top Langs
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bambee83&layout=compact&theme=dark#gh-dark-mode-only)
 
 ## 🔧  Technologies & Software Used
@@ -39,5 +38,8 @@
  
 <!-- Markdown lang
 [![Bambee83 Badge](https://img.shields.io/badge/Bambee83'blog-4A154B.svg?&style=for-the-badge&logo=Bloglovin&link=https://blog.naver.com/bambee83)](https://blog.naver.com/bambee83)
+## 🚀  GitHub stats & Top Langs
+[![Bambee83's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bambee83&show_icons=true&theme=dark#gh-dark-mode-only)]((https://github.com/bambee83/github-readme-stats#gh-dark-mode-only))
+
  -->
 
