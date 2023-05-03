@@ -28,6 +28,7 @@
 [mini project - SeoulCulturePort](https://github.com/event-information)
 [clone coding - Instaclone](https://github.com/instaclone8)
 [final project - emotrak](https://github.com/EmoTrak)
+[![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
 ## ⏲️ Work Stats
 <!--START_SECTION:waka-->
