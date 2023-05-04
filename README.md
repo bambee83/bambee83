@@ -30,7 +30,7 @@
 [final project - emotrak](https://github.com/EmoTrak)
 [![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
-## 🐳 Work Stats
+## 🐳 Work Status
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2046%20mins-blue)
 
