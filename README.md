@@ -31,7 +31,6 @@
 [![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
 ## 🐳 Work Status
-[![Code Time](https://wakatime.com/badge/user/3cc44068-9206-451f-8efd-345b439560c7.svg)](https://wakatime.com/@3cc44068-9206-451f-8efd-345b439560c7)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2046%20mins-blue)
 
