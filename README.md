@@ -7,8 +7,8 @@
 
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
-<!-- - 👯 I’m looking to collaborate on ...-->
+- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on ...-->
 
 ## 🔧  Technologies & Software Used
 
