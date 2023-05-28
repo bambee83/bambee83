@@ -33,7 +33,7 @@
  -->
 ## 🐳 Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%207%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,16 +62,18 @@ Sunday                   481 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      0 secs              █████████████████░░░░░░░░   67.77 % 
+Java                     0 secs              ████████░░░░░░░░░░░░░░░░░   32.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+emotrak_backend          0 secs              █████████████████░░░░░░░░   67.77 % 
+EmoTrak-Backend          0 secs              ████████░░░░░░░░░░░░░░░░░   32.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
