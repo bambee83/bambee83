@@ -1,6 +1,6 @@
 ##  ✨ _Bambee83_ ✨ 
 
-- 🔭 I’m recently studying at hanghae99_13th
+- 🔭 I’m recently studied at hanghae99_13th
 - 🌱 I’m currently learning java, spring boot
 - 🤔 I'm thinking about how to decorate my Git Profile
 - 🪹 Fun fact : The bean of spring boots is actually coffee beans 
