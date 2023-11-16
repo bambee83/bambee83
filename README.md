@@ -33,7 +33,7 @@
  -->
 ## 🐳 Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
