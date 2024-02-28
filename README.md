@@ -62,17 +62,16 @@ Sunday                   517 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-INI                      0 secs              █████████████░░░░░░░░░░░░   53.20 % 
-Java                     0 secs              ████████████░░░░░░░░░░░░░   46.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cicdapp                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
