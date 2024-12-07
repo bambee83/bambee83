@@ -33,7 +33,7 @@
 [![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
  
-## 🐳 Work Status
+## Work Status
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2026%20mins-blue)
 
