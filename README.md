@@ -1,3 +1,4 @@
+<!-- 
 ##  ✨ _Bambee83_ ✨ 
 
 - 🔭 I’m recently studied at Hanghae99
@@ -8,7 +9,7 @@
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- 👯 I’m looking to collaborate on ...-->
+- 👯 I’m looking to collaborate on ...
 
 ## 🔧  Technologies & Software Used
 
@@ -31,6 +32,7 @@
 [final project - emotrak](https://github.com/EmoTrak)
 [![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
+ 
 ## 🐳 Work Status
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2026%20mins-blue)
@@ -94,3 +96,7 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daj0909)](https://solved.ac/daj0909/)
+
