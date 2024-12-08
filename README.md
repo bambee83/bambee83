@@ -32,6 +32,9 @@
 [final project - emotrak](https://github.com/EmoTrak)
 [![bambee83's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bambee83)]
  -->
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daj0909)](https://solved.ac/daj0909/)
+
  
 ## Work Status
 <!--START_SECTION:waka-->
@@ -96,7 +99,3 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daj0909)](https://solved.ac/daj0909/)
-
