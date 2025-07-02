@@ -38,6 +38,47 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2054%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+🌆 Daytime                684 commits         █████████░░░░░░░░░░░░░░░░   36.75 % 
+🌃 Evening                643 commits         █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌙 Night                  299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Wednesday                311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Thursday                 433 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Friday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Sunday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -50,5 +91,5 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 15:19:29 UTC
+ Last Updated on 02/07/2025 15:19:51 UTC
 <!--END_SECTION:waka-->
