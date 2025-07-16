@@ -38,7 +38,7 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2056%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -67,16 +67,21 @@ Sunday                   170 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               █████████████░░░░░░░░░░░░   50.77 % 
+Java                     0 secs              ████████████░░░░░░░░░░░░░   47.07 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     1 min               █████████████░░░░░░░░░░░░   53.07 % 
+mermaid-flowchart        0 secs              ███████████░░░░░░░░░░░░░░   43.12 % 
+auth                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -91,5 +96,5 @@ PLSQL                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 15:18:35 UTC
+ Last Updated on 16/07/2025 15:20:28 UTC
 <!--END_SECTION:waka-->
