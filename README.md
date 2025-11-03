@@ -38,8 +38,6 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%209%20mins-blue)
-
 **I Mostly Code in Java** 
 
 ```text
@@ -51,5 +49,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 15:15:16 UTC
+ Last Updated on 03/11/2025 15:18:43 UTC
 <!--END_SECTION:waka-->
