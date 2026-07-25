@@ -38,7 +38,56 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C865%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C868%20hrs%2041%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌆 Daytime                611 commits         ████████████░░░░░░░░░░░░░   47.70 % 
+🌃 Evening                376 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌙 Night                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                256 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Thursday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Saturday                 139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Sunday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   21 hrs 13 mins      ███████████░░░░░░░░░░░░░░   42.26 % 
+Markdown                 14 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+TypeScript               8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+YAML                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+
+🔥 Editors: 
+Claude Code              45 hrs 49 mins      ███████████████████████░░   91.22 % 
+IntelliJ IDEA            2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Codex CLI                2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+
+🐱‍💻 Projects: 
+MentoriA                 22 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
+cloudia-all              13 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+genia                    6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Downloads                5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+corp                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+
+💻 Operating System: 
+Mac                      50 hrs 13 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Java** 
 
@@ -51,5 +100,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:33:04 UTC
+ Last Updated on 25/07/2026 16:02:27 UTC
 <!--END_SECTION:waka-->
