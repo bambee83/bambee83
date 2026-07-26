@@ -38,7 +38,7 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C868%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -67,26 +67,27 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   21 hrs 13 mins      ███████████░░░░░░░░░░░░░░   42.26 % 
-Markdown                 14 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-TypeScript               8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-YAML                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Python                   21 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.24 % 
+Markdown                 15 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   30.84 % 
+TypeScript               8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+YAML                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+HTML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Claude Code              45 hrs 49 mins      ███████████████████████░░   91.22 % 
-IntelliJ IDEA            2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Codex CLI                2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Claude Code              46 hrs 10 mins      ██████████████████████░░░   89.69 % 
+IntelliJ IDEA            2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Codex CLI                2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+VS Code                  48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 Projects: 
-MentoriA                 22 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
-cloudia-all              13 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-genia                    6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Downloads                5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-corp                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+MentoriA                 22 hrs 26 mins      ███████████░░░░░░░░░░░░░░   43.60 % 
+cloudia-all              13 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+genia                    6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Downloads                6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+corp                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Mac                      50 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      51 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,5 +101,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 16:02:27 UTC
+ Last Updated on 26/07/2026 15:59:44 UTC
 <!--END_SECTION:waka-->
