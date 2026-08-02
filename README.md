@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-350%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,53 +69,53 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 18 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
-Python                   15 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   30.28 % 
-YAML                     2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Java                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Markdown                 17 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.26 % 
+Python                   15 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.72 % 
+YAML                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Java                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JSON                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.07 % 
-Claude Code              16 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Codex CLI                10 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-IntelliJ IDEA            5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+VS Code                  18 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.72 % 
+Claude Code              16 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Codex CLI                10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+IntelliJ IDEA            5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 🐱‍💻 Projects: 
-cloudia-all              29 hrs 14 mins      ██████████████░░░░░░░░░░░   57.44 % 
-Downloads                7 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-MentoriA                 4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-smart-dcim               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-cloudia-claude-marketplac2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+cloudia-all              28 hrs 20 mins      ██████████████░░░░░░░░░░░   56.06 % 
+Downloads                5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+MentoriA                 4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Obsidian Vault           3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+smart-dcim               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 💻 Operating System: 
-Mac                      50 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 43 mins (97.66%)
+⏱ AI Coding Time: 49 hrs 20 mins (97.56%)
 
-✍️ 8,744 lines written by AI, 3 lines written by hand (99.97% AI-written)
+✍️ 9,302 lines written by AI, 5 lines written by hand (99.95% AI-written)
 
-🔤 1,344,810,517 Input Tokens, 4,290,827 Output Tokens
+🔤 1,389,585,946 Input Tokens, 4,363,703 Output Tokens
 
-💵 $6745.10 Estimated AI Cost This Week
+💵 $6974.50 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 533 AI Prompts
+🧠 43 AI Sessions, 549 AI Prompts
 
-Opus                     5,013 lines         ██████████████░░░░░░░░░░░   54.28 % 
-GPT                      4,222 lines         ███████████░░░░░░░░░░░░░░   45.72 % 
+Opus                     5,216 lines         █████████████░░░░░░░░░░░░   53.25 % 
+GPT                      4,580 lines         ████████████░░░░░░░░░░░░░   46.75 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 558 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📄 Detailed Prompter — average 542 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -129,5 +129,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 15:58:54 UTC
+ Last Updated on 02/08/2026 15:58:19 UTC
 <!--END_SECTION:waka-->
