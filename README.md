@@ -69,53 +69,52 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   33.94 % 
-YAML                     5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Python                   5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Java                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Markdown                 11 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.07 % 
+Python                   7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+YAML                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+HTML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+TypeScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.60 % 
-VS Code                  7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Codex CLI                6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-IntelliJ IDEA            4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Claude Code              22 hrs 39 mins      ████████████████░░░░░░░░░   65.40 % 
+IntelliJ IDEA            4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Codex CLI                3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+VS Code                  3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 
 🐱‍💻 Projects: 
-cloudia-all              10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Downloads                7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-MentoriA                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-cloudia-erecto           4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Obsidian Vault           3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Downloads                9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+MentoriA                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+cloudia-all              6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+cloudia-erecto           4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Obsidian Vault           3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 💻 Operating System: 
-Mac                      37 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 26 mins (97.9%)
+⏱ AI Coding Time: 32 hrs 51 mins (94.84%)
 
-✍️ 9,470 lines written by AI, 130 lines written by hand (98.65% AI-written)
+✍️ 8,350 lines written by AI, 130 lines written by hand (98.47% AI-written)
 
-🔤 946,778,320 Input Tokens, 3,807,491 Output Tokens
+🔤 793,257,805 Input Tokens, 3,282,617 Output Tokens
 
-💵 $4806.21 Estimated AI Cost This Week
+💵 $4057.14 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 488 AI Prompts
+🧠 35 AI Sessions, 464 AI Prompts
 
-Opus                     6,239 lines         ████████████████░░░░░░░░░   62.80 % 
-GPT                      3,695 lines         █████████░░░░░░░░░░░░░░░░   37.20 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,367 lines         █████████████████████░░░░   84.11 % 
+GPT                      1,392 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📄 Detailed Prompter — average 886 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.75% of changed lines were hand-edited
+🤖 AI-Driven — 98.47% of written lines came from AI
+📄 Detailed Prompter — average 965 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -129,5 +128,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 16:49:51 UTC
+ Last Updated on 05/08/2026 16:39:50 UTC
 <!--END_SECTION:waka-->
