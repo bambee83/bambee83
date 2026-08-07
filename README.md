@@ -38,84 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2052%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-🌆 Daytime                615 commits         ████████████░░░░░░░░░░░░░   47.31 % 
-🌃 Evening                384 commits         ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌙 Night                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Wednesday                256 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 231 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Friday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Sunday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 11 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.07 % 
-Python                   7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-YAML                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-HTML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-TypeScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-
-🔥 Editors: 
-Claude Code              22 hrs 39 mins      ████████████████░░░░░░░░░   65.40 % 
-IntelliJ IDEA            4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Codex CLI                3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-VS Code                  3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-
-🐱‍💻 Projects: 
-Downloads                9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-MentoriA                 6 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-cloudia-all              6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-cloudia-erecto           4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Obsidian Vault           3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-
-💻 Operating System: 
-Mac                      34 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 51 mins (94.84%)
-
-✍️ 8,350 lines written by AI, 130 lines written by hand (98.47% AI-written)
-
-🔤 793,257,805 Input Tokens, 3,282,617 Output Tokens
-
-💵 $4057.14 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 464 AI Prompts
-
-Opus                     7,367 lines         █████████████████████░░░░   84.11 % 
-GPT                      1,392 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.47% of written lines came from AI
-📄 Detailed Prompter — average 965 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.98% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-370%20hrs%2023%20mins-blue?style=flat)
 
 **I Mostly Code in Java** 
 
@@ -128,5 +53,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:39:50 UTC
+ Last Updated on 07/08/2026 15:53:49 UTC
 <!--END_SECTION:waka-->
