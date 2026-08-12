@@ -69,50 +69,50 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   14 hrs 18 mins      ██████████████░░░░░░░░░░░   54.01 % 
-Markdown                 6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-HTML                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   14 hrs 20 mins      ██████████████░░░░░░░░░░░   55.69 % 
+Markdown                 4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+TypeScript               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+HTML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 59 mins      ██████████████████████░░░   86.76 % 
-IntelliJ IDEA            2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Codex CLI                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Claude Code              22 hrs 45 mins      ██████████████████████░░░   88.32 % 
+IntelliJ IDEA            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Codex CLI                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🐱‍💻 Projects: 
-MentoriA                 12 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.91 % 
-genia                    4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Downloads                4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-cloudia-all              3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-smart-dcim               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+MentoriA                 13 hrs 41 mins      █████████████░░░░░░░░░░░░   53.12 % 
+genia                    7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Downloads                2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+cloudia-all              1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Obsidian Vault           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      26 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 7 mins (94.82%)
+⏱ AI Coding Time: 25 hrs 22 mins (98.46%)
 
-✍️ 4,582 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 4,752 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 806,112,696 Input Tokens, 2,567,366 Output Tokens
+🔤 1,024,140,625 Input Tokens, 2,743,642 Output Tokens
 
-💵 $4026.79 Estimated AI Cost This Week
+💵 $5060.24 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 345 AI Prompts
+🧠 18 AI Sessions, 336 AI Prompts
 
-Opus                     4,997 lines         ████████████████████████░   94.82 % 
-GPT                      273 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Opus                     5,719 lines         ████████████████████████░   95.24 % 
+GPT                      286 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 1,303 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,288 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +126,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 15:59:05 UTC
+ Last Updated on 12/08/2026 15:57:08 UTC
 <!--END_SECTION:waka-->
