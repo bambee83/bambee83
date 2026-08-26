@@ -69,49 +69,49 @@ Sunday                   135 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
-TypeScript               6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Markdown                 5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Other                    7 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.86 % 
+Markdown                 3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+TypeScript               2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 56 mins      ██████████████████████░░░   89.13 % 
-Codex CLI                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-IntelliJ IDEA            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Claude Code              12 hrs 29 mins      ██████████████████████░░░   87.63 % 
+Codex CLI                1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+IntelliJ IDEA            37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           7 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-genia                    4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-MentoriA                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-cloudia-all              2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Downloads                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Obsidian Vault           5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+genia                    2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+cloudia-all              2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Downloads                1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+smart-dcim               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 💻 Operating System: 
-Mac                      21 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 59 mins (98.73%)
+⏱ AI Coding Time: 14 hrs 4 mins (98.78%)
 
-✍️ 1,907 lines written by AI, 5 lines written by hand (99.74% AI-written)
+✍️ 1,304 lines written by AI, 1 lines written by hand (99.92% AI-written)
 
-🔤 589,829,835 Input Tokens, 1,965,493 Output Tokens
+🔤 441,227,233 Input Tokens, 1,200,894 Output Tokens
 
-💵 $2962.47 Estimated AI Cost This Week
+💵 $2211.03 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 393 AI Prompts
+🧠 15 AI Sessions, 265 AI Prompts
 
-Opus                     1,915 lines         █████████████████████████   100.00 % 
+Opus                     1,304 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📄 Detailed Prompter — average 632 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📝 Concise Prompter — average 373 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +125,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 15:39:20 UTC
+ Last Updated on 26/08/2026 16:15:42 UTC
 <!--END_SECTION:waka-->
