@@ -69,45 +69,22 @@ Sunday                   135 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 hrs 29 mins       ███████████████████░░░░░░   76.81 % 
-JavaScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              4 hrs 11 mins       ███████████████████████░░   92.28 % 
-IntelliJ IDEA            21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Downloads                1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-genia                    1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.18 % 
-cloudia-all              1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-MentoriA                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 23 mins (96.66%)
-
-✍️ 82 lines written by AI, 1 lines written by hand (98.8% AI-written)
-
-🔤 114,761,214 Input Tokens, 296,035 Output Tokens
-
-💵 $581.21 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 88 AI Prompts
-
-Opus                     82 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.8% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 3.53% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -121,5 +98,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 18:24:21 UTC
+ Last Updated on 31/08/2026 20:39:23 UTC
 <!--END_SECTION:waka-->
