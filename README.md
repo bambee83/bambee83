@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-428%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,22 +69,49 @@ Sunday                   135 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     22 hrs 54 mins      █████████████████████░░░░   82.39 % 
+Rust                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Python                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              26 hrs 43 mins      ████████████████████████░   96.13 % 
+IntelliJ IDEA            1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Obsidian Vault           12 hrs 36 mins      ███████████░░░░░░░░░░░░░░   45.35 % 
+Downloads                7 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+genia                    3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+MentoriA                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+cloudia-all              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 27 hrs 47 mins (99.99%)
+
+✍️ 2,537 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,125,475,659 Input Tokens, 2,332,947 Output Tokens
+
+💵 $5676.24 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 470 AI Prompts
+
+Opus                     2,527 lines         █████████████████████████   99.61 % 
+Opencode-Cli             10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 431 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +125,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 18:08:54 UTC
+ Last Updated on 02/09/2026 18:25:14 UTC
 <!--END_SECTION:waka-->
