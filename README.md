@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-428%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,39 +69,39 @@ Sunday                   135 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     14 hrs 30 mins      ███████████████████░░░░░░   74.64 % 
-Python                   4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON-lines               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+HTML                     10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   44.44 % 
+Other                    8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
+Python                   4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON-lines               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 27 mins      ██████████████████████░░░   89.84 % 
-IntelliJ IDEA            1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Claude Code              22 hrs              ███████████████████████░░   90.62 % 
+IntelliJ IDEA            2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
-Downloads                4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-mock-agent-platform      3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-MentoriA                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-genia                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Obsidian Vault           10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
+Downloads                4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+mock-agent-platform      3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+MentoriA                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+genia                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 💻 Operating System: 
-Mac                      19 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 17 mins (99.27%)
+⏱ AI Coding Time: 24 hrs 8 mins (99.4%)
 
 ✍️ 317 lines written by AI, 123 lines written by hand (72.05% AI-written)
 
-🔤 786,546,065 Input Tokens, 1,587,658 Output Tokens
+🔤 922,838,113 Input Tokens, 1,869,614 Output Tokens
 
-💵 $3957.76 Estimated AI Cost This Week
+💵 $4646.27 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 345 AI Prompts
+🧠 36 AI Sessions, 404 AI Prompts
 
 Opus                     307 lines           ████████████████████████░   96.85 % 
 Opencode-Cli             10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
@@ -109,8 +109,8 @@ Gemma                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 72.05% of written lines came from AI
-📝 Concise Prompter — average 412 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 312 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 27.95% of changed lines were hand-edited
 ```
 
@@ -125,5 +125,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 18:04:54 UTC
+ Last Updated on 05/09/2026 17:08:27 UTC
 <!--END_SECTION:waka-->
