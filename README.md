@@ -45,21 +45,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                718 commits         ████████████░░░░░░░░░░░░░   48.09 % 
-🌃 Evening                421 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+🌞 Morning                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌆 Daytime                721 commits         ████████████░░░░░░░░░░░░░   47.81 % 
+🌃 Evening                426 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+🌙 Night                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                301 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Monday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Wednesday                301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Thursday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 ```
 
 
@@ -69,49 +69,50 @@ Sunday                   151 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     10 hrs 47 mins      ███████████░░░░░░░░░░░░░░   44.44 % 
-Other                    8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
-Python                   4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JSON-lines               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    12 hrs 2 mins       ██████████████░░░░░░░░░░░   56.98 % 
+Python                   5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+HTML                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Claude Code              22 hrs              ███████████████████████░░   90.62 % 
-IntelliJ IDEA            2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Claude Code              19 hrs 18 mins      ███████████████████████░░   91.30 % 
+IntelliJ IDEA            1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
-Downloads                4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-mock-agent-platform      3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-MentoriA                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-genia                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Obsidian Vault           10 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.63 % 
+mock-agent-platform      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+MentoriA                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+genia                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Downloads                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Mac                      24 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 8 mins (99.4%)
+⏱ AI Coding Time: 20 hrs 59 mins (99.32%)
 
-✍️ 317 lines written by AI, 123 lines written by hand (72.05% AI-written)
+✍️ 520 lines written by AI, 123 lines written by hand (80.87% AI-written)
 
-🔤 922,838,113 Input Tokens, 1,869,614 Output Tokens
+🔤 1,138,394,633 Input Tokens, 1,840,073 Output Tokens
 
-💵 $4646.27 Estimated AI Cost This Week
+💵 $5728.24 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 404 AI Prompts
+🧠 29 AI Sessions, 406 AI Prompts
 
-Opus                     307 lines           ████████████████████████░   96.85 % 
-Opencode-Cli             10 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     307 lines           ███████████████░░░░░░░░░░   59.04 % 
+Opencode-Cli             118 lines           ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+GPT                      95 lines            █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.05% of written lines came from AI
-📝 Concise Prompter — average 312 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 27.95% of changed lines were hand-edited
+🤖 AI-Driven — 80.87% of written lines came from AI
+📝 Concise Prompter — average 351 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 19.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +126,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 18:59:31 UTC
+ Last Updated on 08/09/2026 18:18:00 UTC
 <!--END_SECTION:waka-->
