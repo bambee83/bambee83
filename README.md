@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C971%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-442%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-449%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,50 +69,50 @@ Sunday                   151 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    12 hrs 2 mins       ██████████████░░░░░░░░░░░   56.98 % 
-Python                   5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-HTML                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    38 hrs 34 mins      ████████████████████░░░░░   81.69 % 
+Python                   6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 18 mins      ███████████████████████░░   91.30 % 
-IntelliJ IDEA            1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              45 hrs 39 mins      ████████████████████████░   96.72 % 
+IntelliJ IDEA            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           10 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.63 % 
-mock-agent-platform      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-MentoriA                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-genia                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Downloads                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Obsidian Vault           20 hrs 58 mins      ███████████░░░░░░░░░░░░░░   44.43 % 
+MentoriA                 10 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+genia                    5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+mock-agent-platform      5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Downloads                2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-Mac                      21 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      47 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 59 mins (99.32%)
+⏱ AI Coding Time: 47 hrs (99.55%)
 
-✍️ 520 lines written by AI, 123 lines written by hand (80.87% AI-written)
+✍️ 1,028 lines written by AI, 123 lines written by hand (89.31% AI-written)
 
-🔤 1,138,394,633 Input Tokens, 1,840,073 Output Tokens
+🔤 2,357,745,632 Input Tokens, 3,552,817 Output Tokens
 
-💵 $5728.24 Estimated AI Cost This Week
+💵 $11867.09 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 406 AI Prompts
+🧠 38 AI Sessions, 698 AI Prompts
 
-Opus                     307 lines           ███████████████░░░░░░░░░░   59.04 % 
-Opencode-Cli             118 lines           ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-GPT                      95 lines            █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Opus                     815 lines           ████████████████████░░░░░   79.28 % 
+Opencode-Cli             118 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+GPT                      95 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.87% of written lines came from AI
-📝 Concise Prompter — average 351 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 19.13% of changed lines were hand-edited
+🤖 AI-Driven — 89.31% of written lines came from AI
+📝 Concise Prompter — average 398 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 10.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +126,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 18:18:00 UTC
+ Last Updated on 09/09/2026 18:18:37 UTC
 <!--END_SECTION:waka-->
