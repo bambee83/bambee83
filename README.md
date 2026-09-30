@@ -45,21 +45,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-🌆 Daytime                828 commits         ████████████░░░░░░░░░░░░░   47.42 % 
-🌃 Evening                492 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-🌙 Night                  181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌞 Morning                256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌆 Daytime                832 commits         ████████████░░░░░░░░░░░░░   46.85 % 
+🌃 Evening                505 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌙 Night                  183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  284 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                366 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Thursday                 313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Friday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Sunday                   157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Wednesday                394 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Thursday                 315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Friday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Sunday                   157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 
@@ -69,46 +69,46 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-Other                    1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Python                   57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Other                    5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
+Markdown                 4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Python                   3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 54 mins       ████████████████████████░   97.36 % 
-IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Claude Code              15 hrs 3 mins       █████████████████████████   99.30 % 
+IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           2 hrs 40 mins       █████████████░░░░░░░░░░░░   53.14 % 
-mock-agent-platform      1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-cloudia-all              56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Downloads                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-MentoriA                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Obsidian Vault           4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+mock-agent-platform      3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+cloudia-all              2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+genia                    2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+MentoriA                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 
 💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 15 hrs 10 mins (100.0%)
 
-✍️ 875 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,671 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,810,576 Input Tokens, 439,599 Output Tokens
+🔤 9,907,667 Input Tokens, 1,481,827 Output Tokens
 
-💵 $89.85 Estimated AI Cost This Week
+💵 $189.82 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 47 AI Prompts
+🧠 8 AI Sessions, 170 AI Prompts
 
-Opus                     875 lines           █████████████████████████   100.00 % 
+Opus                     2,594 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 921 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 948 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -123,5 +123,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 19:47:21 UTC
+ Last Updated on 30/09/2026 19:49:25 UTC
 <!--END_SECTION:waka-->
