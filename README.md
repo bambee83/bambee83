@@ -69,44 +69,44 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
-Python                   3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown                 1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   38.67 % 
+Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+JavaScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 48 mins      █████████████████████████   99.02 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Claude Code              2 hrs 50 mins       ████████████████████████░   96.38 % 
+IntelliJ IDEA            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.40 % 
-mock-agent-platform      3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
-cloudia-all              2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Obsidian Vault           1 hr 27 mins        ████████████░░░░░░░░░░░░░   49.21 % 
+cloudia-all              56 mins             ████████░░░░░░░░░░░░░░░░░   31.64 % 
+mock-agent-platform      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 
 💻 Operating System: 
-Mac                      10 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 54 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 57 mins (100.0%)
 
-✍️ 2,671 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 68 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,759,949 Input Tokens, 1,137,650 Output Tokens
+🔤 2,039,145 Input Tokens, 176,773 Output Tokens
 
-💵 $146.10 Estimated AI Cost This Week
+💵 $27.20 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 118 AI Prompts
+🧠 3 AI Sessions, 33 AI Prompts
 
-Opus                     2,594 lines         █████████████████████████   100.00 % 
+Opus                     68 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,162 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
+📄 Detailed Prompter — average 1,291 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -121,5 +121,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 18:32:02 UTC
+ Last Updated on 05/10/2026 21:49:19 UTC
 <!--END_SECTION:waka-->
