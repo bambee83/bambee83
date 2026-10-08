@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C994%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-473%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-475%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,22 +69,47 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.14 % 
+Markdown                 3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              9 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mock-agent-platform      3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+Obsidian Vault           3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+MentoriA                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+cloudia-all              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Downloads                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 hrs 10 mins (100.0%)
+
+✍️ 1,804 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 11,075,352 Input Tokens, 872,706 Output Tokens
+
+💵 $135.43 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 113 AI Prompts
+
+Opus                     1,813 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +123,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 20:25:04 UTC
+ Last Updated on 08/10/2026 20:30:09 UTC
 <!--END_SECTION:waka-->
