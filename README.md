@@ -38,28 +38,28 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C003%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-489%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌆 Daytime                902 commits         ████████████░░░░░░░░░░░░░   47.90 % 
-🌃 Evening                511 commits         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-🌙 Night                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+🌞 Morning                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+🌆 Daytime                905 commits         ████████████░░░░░░░░░░░░░   47.73 % 
+🌃 Evening                511 commits         ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+🌙 Night                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Tuesday                  317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                423 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Thursday                 331 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Sunday                   157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Monday                   317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Tuesday                  317 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Wednesday                423 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Thursday                 344 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Saturday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Sunday                   157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 ```
 
 
@@ -69,46 +69,46 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 5 hrs 47 mins       █████████████░░░░░░░░░░░░   53.44 % 
-Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Java                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 10 hrs 7 mins       ███████████████░░░░░░░░░░   58.95 % 
+Java                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 29 mins      ████████████████████████░   96.90 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Claude Code              16 hrs 42 mins      ████████████████████████░   97.29 % 
+IntelliJ IDEA            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🐱‍💻 Projects: 
-cloudia-all              4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
-Obsidian Vault           4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.64 % 
-genia-agent-platform     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-MentoriA                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-genia                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+cloudia-all              8 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.99 % 
+Obsidian Vault           6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+genia-agent-platform     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+genia                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+mock-agent-platform      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 17 hrs 10 mins (100.0%)
 
-✍️ 1,619 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,329 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,978,901 Input Tokens, 1,079,767 Output Tokens
+🔤 15,692,185 Input Tokens, 1,854,989 Output Tokens
 
-💵 $161.40 Estimated AI Cost This Week
+💵 $266.04 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 208 AI Prompts
+🧠 12 AI Sessions, 369 AI Prompts
 
-Opus                     1,621 lines         █████████████████████████   100.00 % 
+Opus                     4,341 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 504 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -123,5 +123,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 19:10:15 UTC
+ Last Updated on 15/10/2026 18:52:55 UTC
 <!--END_SECTION:waka-->
