@@ -38,9 +38,9 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-493%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-497%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,48 +69,49 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 8 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-Java                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Other                    2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Markdown                 7 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.06 % 
+Java                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 56 mins      ████████████████████████░   94.45 % 
-IntelliJ IDEA            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Claude Code              15 hrs 2 mins       ██████████████████████░░░   89.26 % 
+IntelliJ IDEA            1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-cloudia-all              8 hrs 27 mins       █████████████░░░░░░░░░░░░   50.13 % 
-Obsidian Vault           4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-genia-agent-platform     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-genia                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-worklog                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+cloudia-all              8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.65 % 
+Obsidian Vault           4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+genia                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+genia-agent-platform     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+worklog                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Mac                      16 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 52 mins (99.99%)
+⏱ AI Coding Time: 16 hrs 50 mins (99.99%)
 
-✍️ 5,129 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,388 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,489,310 Input Tokens, 2,068,633 Output Tokens
+🔤 13,446,283 Input Tokens, 2,257,228 Output Tokens
 
-💵 $285.60 Estimated AI Cost This Week
+💵 $335.14 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 344 AI Prompts
+🧠 20 AI Sessions, 339 AI Prompts
 
-Opus                     5,605 lines         █████████████████████████   100.00 % 
+Opus                     8,068 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mercury                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 571 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
+📄 Detailed Prompter — average 812 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -125,5 +126,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 20:21:41 UTC
+ Last Updated on 20/10/2026 18:54:18 UTC
 <!--END_SECTION:waka-->
