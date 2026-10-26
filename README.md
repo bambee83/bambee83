@@ -38,28 +38,28 @@
  
 ## Work Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C028%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-512%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-519%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-🌆 Daytime                916 commits         ████████████░░░░░░░░░░░░░   47.56 % 
-🌃 Evening                517 commits         ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-🌙 Night                  190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+🌞 Morning                303 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌆 Daytime                924 commits         ████████████░░░░░░░░░░░░░   47.78 % 
+🌃 Evening                517 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                425 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Thursday                 351 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Friday                   185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Saturday                 160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Monday                   326 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Wednesday                425 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Thursday                 351 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Friday                   185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Saturday                 160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
@@ -69,50 +69,50 @@ Sunday                   166 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   41.92 % 
-Python                   6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Other                    2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Java                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-SQL                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 12 hrs 12 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
+Python                   6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Other                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Java                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 54 mins      ██████████████████████░░░   89.31 % 
-IntelliJ IDEA            2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Claude Code              25 hrs 6 mins       ███████████████████████░░   91.16 % 
+IntelliJ IDEA            2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
-cloudia-all              5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-survival-agent           4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-genia-agent-platform     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-genia                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Obsidian Vault           10 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.84 % 
+cloudia-all              6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+survival-agent           4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+genia-agent-platform     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+worklog                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-Mac                      24 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 21 mins (99.23%)
+⏱ AI Coding Time: 27 hrs 14 mins (98.93%)
 
-✍️ 17,011 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 19,421 lines written by AI, 54 lines written by hand (99.72% AI-written)
 
-🔤 19,738,774 Input Tokens, 3,617,587 Output Tokens
+🔤 22,911,623 Input Tokens, 4,093,144 Output Tokens
 
-💵 $519.62 Estimated AI Cost This Week
+💵 $581.75 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 383 AI Prompts
+🧠 32 AI Sessions, 417 AI Prompts
 
-Opus                     17,710 lines        █████████████████████████   100.00 % 
+Opus                     19,722 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mercury                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 761 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.72% of written lines came from AI
+📄 Detailed Prompter — average 831 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -126,5 +126,5 @@ FreeMarker               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 18:06:50 UTC
+ Last Updated on 26/10/2026 20:18:26 UTC
 <!--END_SECTION:waka-->
